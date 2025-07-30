@@ -1,6 +1,5 @@
-@import 'tailwindcss/animate';
-@import 'tailwindcss/typography';
 @import 'tailwindcss';
+@plugin '@tailwindcss/typography';
 
 @theme {
   /* Container settings */
